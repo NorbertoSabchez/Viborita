@@ -1,0 +1,13 @@
+body{
+	background-color: #399FA6;
+	text-align: center;
+}
+
+#canvas{
+	background-color: #53A639;
+	border: 4px solid blue;
+}
+
+h2{
+	margin: 0;
+}
